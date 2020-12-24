@@ -1,3 +1,5 @@
+# Uses regular expressions to add the sum of all numbers found in the text document.
+
 import re
 
 #sample_text_filename = "sample_text.txt"
